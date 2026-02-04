@@ -24,10 +24,15 @@ Este portifólio foi criado com foco em apresentar meus trabalhos de forma clara
 ## 🖥️ Demonstração
 
 ### 💻 Desktop
-<img src="assets/img-desktop.png">
-
+<p align="center">
+<img src="assets/img-desktop.png" width="600">
+</p>
 ### 📱 Mobile
-<img src="assets/img-mobile (1).png">
+<p align="center">
+  <img src="assets/img-mobile (1).png" width="200">
+</p>
+
+
 
 
 ---
