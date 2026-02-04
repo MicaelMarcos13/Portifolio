@@ -27,6 +27,7 @@ Este portifólio foi criado com foco em apresentar meus trabalhos de forma clara
 <p align="center">
 <img src="assets/img-desktop.png" width="600">
 </p>
+
 ### 📱 Mobile
 <p align="center">
   <img src="assets/img-mobile (1).png" width="200">
