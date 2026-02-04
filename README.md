@@ -5,7 +5,7 @@
 🌐 **Acesse online:** 
 <br>
 
-🐙 **Repositório**: https://github.com/
+🐙 **Repositório**: https://github.com/MicaelMarcos13/Portifolio.git
 
 
 ---
@@ -24,7 +24,7 @@ Este portifólio foi criado com foco em apresentar meus trabalhos de forma clara
 ## 🖥️ Demonstração
 
 ### 💻 Desktop
-<img src="">
+<img src="assets/img-desktop.png">
 
 ### 📱 Mobile
 <img src="assets/img-mobile (1).png">
