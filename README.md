@@ -3,7 +3,7 @@
  Meu portifólio pessoal desenvolvido para apresentar projetos, habilidades e evolução como desenvolvedor Front-End.
 
 🌐 **Acesse online:** 
----
+<br>
 
 🐙 **Repositório**: https://github.com/
 
@@ -24,14 +24,11 @@ Este portifólio foi criado com foco em apresentar meus trabalhos de forma clara
 ## 🖥️ Demonstração
 
 ### 💻 Desktop
-![Desktop](./assets/)
+<img src="">
 
 ### 📱 Mobile
-![Mobile](./assets/mobile.png)
+<img src="assets/img-mobile (1).png">
 
-🎬 **Preview em ação**
-<!-- Se quiser, depois você pode colocar um GIF aqui -->
-![Preview](./assets/preview.gif)
 
 ---
 
