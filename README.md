@@ -2,10 +2,10 @@
 
  Meu portifólio pessoal desenvolvido para apresentar projetos, habilidades e evolução como desenvolvedor Front-End.
 
-🌐 **Acesse online:** 
+🌐 **Acesse online:** https://micaelmarcos13.github.io/Portifolio/
 <br>
 
-🐙 **Repositório**: https://github.com/MicaelMarcos13/Portifolio.git
+🐙 **Repositório**: 
 
 
 ---
